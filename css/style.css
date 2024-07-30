@@ -191,11 +191,32 @@ header {
 .btnCardapio {
   text-decoration: none;
   color: #fff;
+  background: #8daa3e;
+  padding: 10px 20px;
+  border-radius: 50px;
+  border-bottom: 2px solid #6b7552;
 }
 
-/* #Cardapio div {
+#PromoPizzas {
   width: 100%;
   display: flex;
- justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding-top: 20px;
+}
 
-} */
+
+
+
+
+
+
+
+
+
+
+
+
+
