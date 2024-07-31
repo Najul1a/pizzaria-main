@@ -207,7 +207,27 @@ header {
   padding-top: 20px;
 }
 
+#Delivery {
+ max-height: 270px;
+ background: #ebe7db;
+ margin: 50px 0;
+ display: flex;
+ justify-content: center;
+ gap: 90px;
+ align-items: center;
+ text-align: center;
+}
 
+#Delivery h1{
+  text-transform: uppercase;
+  color: #bf0a26;
+  font-weight: 900;
+}
+
+#Delivery .sec-menu{
+  justify-content: center;
+  padding: 40px;
+}
 
 
 
