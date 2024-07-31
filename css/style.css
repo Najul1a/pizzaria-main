@@ -229,6 +229,17 @@ header {
   padding: 40px;
 }
 
+#Icone{
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  gap: 70px;
+}
+
+.itens{
+  max-width: 250px;
+  text-align: center;
+}
 
 
 
