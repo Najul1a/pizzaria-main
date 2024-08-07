@@ -47,7 +47,7 @@ header {
   );
   background: -moz-linear-gradient(
     to bottom,
-    rgba(0, 0, 0, 0.8) 0%,
+    rgba(90, 86, 52, 0.8) 0%,
     rgba(0, 0, 0, 0.8) 60%,
     rgba(0, 0, 0, 0) 100%
   );
@@ -72,7 +72,7 @@ header {
 }
 
 .main-navigation a {
-  color: #fff;
+  color: #161A30;
   display: block;
   text-decoration: none;
   font-size: 17px;
@@ -82,7 +82,7 @@ header {
 }
 .main-navigation a:hover,
 .main-navigation a:focus {
-  border-color: #e7a200;
+  border-color: #842e9c;
 }
 
 .site-header-main {
@@ -102,7 +102,7 @@ header {
 }
 
 #btnZap {
-  background: #e7a200;
+  background: #2b363d;
   border-radius: 65px;
   padding: 0px 15px;
   font-size: 20px;
@@ -156,8 +156,8 @@ header {
 #TextoBoasVindas h3 {
   text-transform: uppercase;
   font-weight: 900;
-  color: #e7a200;
-  font-size: 23px;
+  color: #0400e7;
+  font-size: 40px;
   margin-top: 20px;
   margin-bottom: 0;
 }
